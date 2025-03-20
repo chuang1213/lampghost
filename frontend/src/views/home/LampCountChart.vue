@@ -60,7 +60,8 @@ const lampCountChartOptions = reactive({
     stacked: true,
     stackType: "100%",
   },
-  colors: ["#ABABAB", "#00FF00", "#00FFFF", "#FF0000", "#FFFFFF"],
+  colors: ["#9d2933", "#55e9bc", "#00bbf0", "#f85f73", "#eeeeee"],
+          //FAILED EC NC HC noplay
   series: [],
   plotOptions: {
     bar: {
